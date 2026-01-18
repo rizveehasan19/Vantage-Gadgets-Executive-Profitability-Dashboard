@@ -15,7 +15,9 @@ Executive KPI Cards: High-contrast cards highlighting critical metrics like Stor
 
 Dynamic Insight Banner: A smart text engine that calculates and displays the exact monthly savings achieved by following the dashboard's recommendations.
 
+
 <img width="847" height="487" alt="Executive Dashboard Screenshot" src="https://github.com/user-attachments/assets/d92d5640-a2c7-486c-8a16-1c9b1cacffab" />
+
 
 
 🛠️ Technical Stack
