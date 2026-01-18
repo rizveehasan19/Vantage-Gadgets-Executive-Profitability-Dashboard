@@ -4,6 +4,7 @@ This project is a high-fidelity E-commerce Executive Dashboard built in Microsof
 The dashboard provides a "single pane of glass" view for decision-makers to analyze the journey from Gross Sales to Net Profit and take immediate action on underperforming products.
 
 🚀 Key Features
+
 Waterfall Financial Flow: Visualizes the impact of refunds, COGS, shipping, and ad spend on the final Net Profit ($97,445).
 
 Automated Action Engine: A custom logic-driven table that categorizes SKUs as "Winners" to scale or "Money Pits" to stop, based on net margin performance.
