@@ -35,6 +35,9 @@ Logic: Complex DAX-style Excel formulas for conditional insight generation and p
 By analyzing the performance of 15+ SKUs, this tool identified that stopping ads on just 4 "Money Pit" SKUs (such as GENERIC-GADGET-6 and -7) would save the business approximately $18,928 per month.
 
 Author: Md Rizvee Hasan 
-Linkedin: https://www.linkedin.com/in/rizveehasan19/ 
+
+LinkedIn: https://www.linkedin.com/in/rizveehasan19/ 
 
 License: MIT
+
+#DataAnalytics hashtag#Ecommerce hashtag#ExcelDashboard hashtag#BusinessIntelligence hashtag#ProfitOptimization
