@@ -16,6 +16,7 @@ Executive KPI Cards: High-contrast cards highlighting critical metrics like Stor
 Dynamic Insight Banner: A smart text engine that calculates and displays the exact monthly savings achieved by following the dashboard's recommendations.
 
 🛠️ Technical Stack
+
 Data Modeling: Power Query used for ETL (Extract, Transform, Load) of Orders, Products, and Marketing datasets.
 
 Visualization: Advanced Excel charting, including Waterfall charts and custom shapes with linked cell values.
@@ -23,3 +24,11 @@ Visualization: Advanced Excel charting, including Waterfall charts and custom sh
 UI/UX Design: Dark-mode "SaaS" aesthetic using a Slate/Indigo color palette (#1E293B, #6366F1).
 
 Logic: Complex DAX-style Excel formulas for conditional insight generation and performance tiering.
+
+📈 Insights Summary
+
+By analyzing the performance of 15+ SKUs, this tool identified that stopping ads on just 4 "Money Pit" SKUs (such as GENERIC-GADGET-6 and -7) would save the business approximately $18,928 per month.
+
+Author: Md Rizvee Hasan Linkedin: https://www.linkedin.com/in/rizveehasan19/ 
+
+License: MIT
